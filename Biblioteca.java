@@ -6,7 +6,7 @@ package com.mycompany.biblioteca;
 
 /**
  *
- * @author Perla Díaz 
+ * @author Esdrey Moguel Diaz
  * 
  */import java.util.ArrayList;
 
